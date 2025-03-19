@@ -1,2 +1,3 @@
 # Amigo-Secreto
-Challenge-amigo-secreto
+## Challenge-amigo-secreto
+![Amigo secreto](./assets/)
